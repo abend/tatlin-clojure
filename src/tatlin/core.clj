@@ -1,8 +1,7 @@
 (ns tatlin.core
   (:import [remixlab.proscene Scene]
            [saito.objloader OBJModel BoundingBox]
-           [processing.core PConstants]
-           )
+           [processing.core PConstants])
   (:require [clojure.java.io :as io]
             [quil.core :refer :all]
             [quil.applet :as ap]))
