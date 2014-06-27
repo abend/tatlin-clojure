@@ -1,14 +1,13 @@
-# tatlin
+# Tatlin
 
-A Clojure library designed to ... well, that part is up to you.
+Experiments in writing raw gcode to print 3D wireframe objects.
 
 ## Usage
 
-FIXME
+TODO
 
 ## License
 
-Copyright © 2014 FIXME
+Copyright © 2014 Sasha Kovar
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the GNU General Public License Version 3.
